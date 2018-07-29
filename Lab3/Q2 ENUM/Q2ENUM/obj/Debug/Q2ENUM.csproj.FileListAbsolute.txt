@@ -1,0 +1,7 @@
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\bin\Debug\Q2ENUM.exe.config
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\bin\Debug\Q2ENUM.exe
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\bin\Debug\Q2ENUM.pdb
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\obj\Debug\Q2ENUM.csprojResolveAssemblyReference.cache
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\obj\Debug\Q2ENUM.csproj.CoreCompileInputs.cache
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\obj\Debug\Q2ENUM.exe
+F:\EvsStudentLabTasks\Lab2\Q2ENUM\Q2ENUM\obj\Debug\Q2ENUM.pdb
