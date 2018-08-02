@@ -1,0 +1,7 @@
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\bin\Debug\Q3PersonStudentTask.exe.config
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\bin\Debug\Q3PersonStudentTask.exe
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\bin\Debug\Q3PersonStudentTask.pdb
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\obj\Debug\Q3PersonStudentTask.csprojResolveAssemblyReference.cache
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\obj\Debug\Q3PersonStudentTask.csproj.CoreCompileInputs.cache
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\obj\Debug\Q3PersonStudentTask.exe
+F:\EvsStudentLabTasks\Q3PersonStudentTask\Q3PersonStudentTask\obj\Debug\Q3PersonStudentTask.pdb
